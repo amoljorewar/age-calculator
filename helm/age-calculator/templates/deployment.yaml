@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: "amoljorewar/webapp-project:4"
+        image: "amoljorewar/webapp-project:7"
         ports:
         - containerPort: 80
 
